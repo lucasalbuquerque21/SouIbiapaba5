@@ -21,7 +21,7 @@ body {
     background-color: var(--bg-light);
     color: var(--text-dark);
     overflow-x: hidden; 
-    padding-top: 55px;
+    padding-top: 40px;
 }
 
 .container {
