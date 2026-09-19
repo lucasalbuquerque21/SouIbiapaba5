@@ -21,7 +21,7 @@ body {
     background-color: var(--bg-light);
     color: var(--text-dark);
     overflow-x: hidden; 
-    padding-top: 70px;
+    padding-top: 65px;
 }
 
 .container {
@@ -33,7 +33,7 @@ body {
 /* NAVBAR / HEADER */
 .header {
     background-color: var(--bg-dark);
-    padding: 20px 0;
+    padding: 15px 0;
     position: fixed;
     width: 100%;
     top: 0;
